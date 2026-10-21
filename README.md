@@ -2,8 +2,6 @@
 
 I build open-source infrastructure for AI agents at [@tinyhumansai](https://github.com/tinyhumansai), mostly in Rust.
 
-[![committers.top badge](https://user-badge.committers.top/india/sanil-23.svg)](https://user-badge.committers.top/india/sanil-23)
-
 ### What I work on
 
 - **[OpenHuman](https://github.com/tinyhumansai/openhuman)** (42k★): a fast, low-cost open-source agent harness. I contribute to the core runtime and run its benchmarks.
