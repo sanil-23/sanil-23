@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/tinyhumansai"><img src="https://img.shields.io/badge/@tinyhumansai-agent_infra-5ef2ff?style=for-the-badge&labelColor=0a0f1f" alt="tinyhumansai"/></a>
-  <a href="https://github.com/talker-network"><img src="https://img.shields.io/badge/@talker--network-push_to_talk-8b7bff?style=for-the-badge&labelColor=0a0f1f" alt="Talker Network"/></a>
+  <a href="https://github.com/tinyhumansai/opencompany"><img src="https://img.shields.io/badge/OpenCompany-agent_hive_mind-8b7bff?style=for-the-badge&labelColor=0a0f1f" alt="OpenCompany"/></a>
   <a href="https://github.com/jainsanil18"><img src="https://img.shields.io/badge/also-@jainsanil18-ff5ec8?style=for-the-badge&labelColor=0a0f1f" alt="@jainsanil18"/></a>
 </p>
 
-I build open-source infrastructure for AI agents at [@tinyhumansai](https://github.com/tinyhumansai), mostly in Rust, and real-time voice at [Talker Network](https://github.com/talker-network). Writing code on GitHub since 2016. This account and [@jainsanil18](https://github.com/jainsanil18) are both me, and the card below counts them as one.
+I build open-source infrastructure for AI agents at [@tinyhumansai](https://github.com/tinyhumansai), mostly in Rust. Writing code on GitHub since 2016. This account and [@jainsanil18](https://github.com/jainsanil18) are both me, and the card below counts them as one.
 
 <p align="center">
   <img src="assets/activity.svg" alt="Contribution activity across @sanil-23 and @jainsanil18" width="100%"/>
@@ -18,11 +18,13 @@ I build open-source infrastructure for AI agents at [@tinyhumansai](https://gith
 
 | | |
 |---|---|
+| 🐝 **[OpenCompany](https://github.com/tinyhumansai/opencompany)** | Runs a hive mind of agents toward a single goal. My main project: 86 merged PRs. |
 | 🧠 **[OpenHuman](https://github.com/tinyhumansai/openhuman)** | A fast, low-cost open-source agent harness (42k★). Core runtime and benchmarks. |
 | 📊 **[openhuman-benchmarks](https://github.com/tinyhumansai/openhuman-benchmarks)** | Public evals like Terminal-Bench 2. I find failures caused by the harness, not the model, and fix them. |
 | 🦀 **[tinyagents](https://github.com/tinyhumansai/tinyagents)** · **[tinyflows](https://github.com/tinyhumansai/tinyflows)** | A provider-neutral agent harness and agentic workflows, both in Rust. |
 | 💾 **[tinymemory](https://github.com/tinyhumansai/tinymemory)** | A common memory interface for agents. I work on recall quality and evals. |
-| 🎙️ **[Talker Network](https://github.com/talker-network)** | A push-to-talk audio network: backend, audio relay and [mobile SDKs](https://github.com/talker-network/talker-android-sdk). |
+
+Previously: real-time push-to-talk voice at [Talker Network](https://github.com/talker-network).
 
 Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](https://github.com/tinyhumansai/tinyartifacts) · [tinymcp](https://github.com/tinyhumansai/tinymcp) · [tinysearch](https://github.com/tinyhumansai/tinysearch)
 
@@ -41,6 +43,6 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 
 ### 🔭 Interests
 
-`agent harnesses` · `evals & benchmarks` · `long-running agents` · `agent memory` · `real-time audio` · `Rust`
+`agent harnesses` · `evals & benchmarks` · `long-running agents` · `agent memory` · `Rust`
 
 <sub>The activity card and feed are regenerated daily by <a href=".github/workflows/profile.yml">a GitHub Action</a> from both accounts.</sub>
