@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',Consolas,monospace; }
+  .name { font-size: 54px; font-weight: 800; letter-spacing: 6px; fill: url(#neon); }
+  .prompt { font-size: 18px; fill: #5ef2ff; }
+  .line { font-size: 18px; fill: #e6fbff; }
+  .meta { font-size: 12px; fill: #6b8ba4; letter-spacing: 2px; }
+  .grid line { stroke: #16304d; stroke-width: 1; }
+  .orb { animation: drift 9s ease-in-out infinite alternate; }
+  @keyframes drift { from { transform: translate(0,0); } to { transform: translate(-60px,18px); } }
+  .cursor { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  /* Three lines take turns: each types in, holds, then clears (12s cycle). */
+  .l { animation: show 12s infinite; } .l2, .l3 { opacity: 0; }
+  .l2 { animation-delay: 4s; } .l3 { animation-delay: 8s; }
+  @keyframes show { 0% { opacity: 1; } 33.3% { opacity: 1; } 33.4%, 100% { opacity: 0; } }
+  .type { animation: type 12s steps(34) infinite; }
+  #t2 .type { animation-delay: 4s; } #t3 .type { animation-delay: 8s; }
+  @keyframes type { 0% { width: 0; } 16% { width: 420px; } 100% { width: 420px; } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070b18"/><stop offset="1" stop-color="#0d1630"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" x2="1">
+    <stop offset="0" stop-color="#5ef2ff"/><stop offset=".55" stop-color="#8b7bff"/><stop offset="1" stop-color="#ff5ec8"/>
+  </linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#8b7bff" stop-opacity=".45"/><stop offset="1" stop-color="#8b7bff" stop-opacity="0"/></radialGradient>
+  <clipPath id="card"><rect width="900" height="220" rx="16"/></clipPath>
+  <clipPath id="t1"><rect class="type" x="68" y="150" height="30" width="420"/></clipPath>
+  <clipPath id="t2"><rect class="type" x="68" y="150" height="30" width="420"/></clipPath>
+  <clipPath id="t3"><rect class="type" x="68" y="150" height="30" width="420"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="900" height="220" fill="url(#bg)"/>
+  <g class="grid">
+    <line x1="0" y1="55" x2="900" y2="55"/><line x1="0" y1="110" x2="900" y2="110"/><line x1="0" y1="165" x2="900" y2="165"/>
+    <line x1="150" y1="0" x2="150" y2="220"/><line x1="300" y1="0" x2="300" y2="220"/><line x1="450" y1="0" x2="450" y2="220"/>
+    <line x1="600" y1="0" x2="600" y2="220"/><line x1="750" y1="0" x2="750" y2="220"/>
+  </g>
+  <circle class="orb" cx="760" cy="70" r="170" fill="url(#glow)"/>
+</g>
+<rect x=".5" y=".5" width="899" height="219" rx="16" fill="none" stroke="#1f3a5c"/>
+<text x="40" y="46" class="meta">SANIL JAIN // @sanil-23 + @jainsanil18 // EST. 2016</text>
+<text x="40" y="118" class="name">SANIL</text>
+<text x="40" y="171" class="prompt">&gt;</text>
+<g class="l l1"><text x="68" y="171" class="line" clip-path="url(#t1)">cracking AGI @ tinyhumansai</text></g>
+<g class="l l2"><text x="68" y="171" class="line" clip-path="url(#t2)">building agent infra in Rust</text></g>
+<g class="l l3"><text x="68" y="171" class="line" clip-path="url(#t3)">shipping push-to-talk @ Talker</text></g>
+<rect class="cursor" x="40" y="186" width="12" height="3" fill="#5ef2ff"/>
+</svg>

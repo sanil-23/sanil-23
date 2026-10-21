@@ -1,16 +1,46 @@
-# Hi, I'm Sanil 👋
+<p align="center">
+  <img src="assets/header.svg" alt="Sanil — cracking AGI @ tinyhumansai" width="100%"/>
+</p>
 
-I build open-source infrastructure for AI agents at [@tinyhumansai](https://github.com/tinyhumansai), mostly in Rust.
+<p align="center">
+  <a href="https://github.com/tinyhumansai"><img src="https://img.shields.io/badge/@tinyhumansai-agent_infra-5ef2ff?style=for-the-badge&labelColor=0a0f1f" alt="tinyhumansai"/></a>
+  <a href="https://github.com/talker-network"><img src="https://img.shields.io/badge/@talker--network-push_to_talk-8b7bff?style=for-the-badge&labelColor=0a0f1f" alt="Talker Network"/></a>
+  <a href="https://github.com/jainsanil18"><img src="https://img.shields.io/badge/also-@jainsanil18-ff5ec8?style=for-the-badge&labelColor=0a0f1f" alt="@jainsanil18"/></a>
+</p>
 
-### What I work on
+I build open-source infrastructure for AI agents at [@tinyhumansai](https://github.com/tinyhumansai), mostly in Rust, and real-time voice at [Talker Network](https://github.com/talker-network). Writing code on GitHub since 2016. This account and [@jainsanil18](https://github.com/jainsanil18) are both me, and the card below counts them as one.
 
-- **[OpenHuman](https://github.com/tinyhumansai/openhuman)** (42k★): a fast, low-cost open-source agent harness. I contribute to the core runtime and run its benchmarks.
-- **[openhuman-benchmarks](https://github.com/tinyhumansai/openhuman-benchmarks)**: public eval runs (e.g. Terminal-Bench 2). I find failures caused by the harness, not the model, and fix them.
-- **[tinyagents](https://github.com/tinyhumansai/tinyagents)**: a small agent harness in Rust that works with any model provider.
-- **[tinyflows](https://github.com/tinyhumansai/tinyflows)**: agentic workflows in Rust.
-- **[tinymemory](https://github.com/tinyhumansai/tinymemory)**: a common memory interface for agents. I work on recall quality and evals.
-- Also: [tinytools](https://github.com/tinyhumansai/tinytools), [tinyartifacts](https://github.com/tinyhumansai/tinyartifacts), [tinymcp](https://github.com/tinyhumansai/tinymcp), [tinysearch](https://github.com/tinyhumansai/tinysearch)
+<p align="center">
+  <img src="assets/activity.svg" alt="Contribution activity across @sanil-23 and @jainsanil18" width="100%"/>
+</p>
 
-### Interests
+### ⚡ What I work on
 
-Agent harnesses · evals and benchmarks · long-running agents · agent memory · Rust
+| | |
+|---|---|
+| 🧠 **[OpenHuman](https://github.com/tinyhumansai/openhuman)** | A fast, low-cost open-source agent harness (42k★). Core runtime and benchmarks. |
+| 📊 **[openhuman-benchmarks](https://github.com/tinyhumansai/openhuman-benchmarks)** | Public evals like Terminal-Bench 2. I find failures caused by the harness, not the model, and fix them. |
+| 🦀 **[tinyagents](https://github.com/tinyhumansai/tinyagents)** · **[tinyflows](https://github.com/tinyhumansai/tinyflows)** | A provider-neutral agent harness and agentic workflows, both in Rust. |
+| 💾 **[tinymemory](https://github.com/tinyhumansai/tinymemory)** | A common memory interface for agents. I work on recall quality and evals. |
+| 🎙️ **[Talker Network](https://github.com/talker-network)** | A push-to-talk audio network: backend, audio relay and [mobile SDKs](https://github.com/talker-network/talker-android-sdk). |
+
+Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](https://github.com/tinyhumansai/tinyartifacts) · [tinymcp](https://github.com/tinyhumansai/tinymcp) · [tinysearch](https://github.com/tinyhumansai/tinysearch)
+
+### 🛰️ Recently shipped
+
+<!-- RECENT:START -->
+- `2026-10-21` **tinyhumansai/openhuman** · [fix(chat): keep live turns visible, and say when a turn is compacting](https://github.com/tinyhumansai/openhuman/pull/8164)
+- `2026-10-16` **tinyhumansai/openhuman-benchmarks** · [feat(memory): OpenHuman memory integration arm and LongMemEval_M long-history arms (#38)](https://github.com/tinyhumansai/openhuman-benchmarks/pull/39)
+- `2026-10-16` **tinyhumansai/openhuman** · [perf(memory): store past chats with accepted writes](https://github.com/tinyhumansai/openhuman/pull/7961)
+- `2026-10-16` **tinyhumansai/openhuman** · [feat(memory): agent memory tool returns capped evidence, pages fetch, and recalls compacted turns](https://github.com/tinyhumansai/openhuman/pull/7840)
+- `2026-10-16` **tinyhumansai/openhuman** · [feat(artifacts): versioned artifacts through the tiny-artifacts service , side panel for artifact viewing ,editing and sharing , message rows representing artifacts](https://github.com/tinyhumansai/openhuman/pull/7888)
+- `2026-10-16` **tinyhumansai/tinyartifacts** · [Let the host refuse paths inside the file roots](https://github.com/tinyhumansai/tinyartifacts/pull/4)
+- `2026-10-16` **tinyhumansai/tinyartifacts** · [Keep a copy of each file version](https://github.com/tinyhumansai/tinyartifacts/pull/3)
+- `2026-10-16` **tinyhumansai/tinymemory** · [Evidence recall: a 12 s deadline on the packs, and say when one was left out](https://github.com/tinyhumansai/tinymemory/pull/279)
+<!-- RECENT:END -->
+
+### 🔭 Interests
+
+`agent harnesses` · `evals & benchmarks` · `long-running agents` · `agent memory` · `real-time audio` · `Rust`
+
+<sub>The activity card and feed are regenerated daily by <a href=".github/workflows/profile.yml">a GitHub Action</a> from both accounts.</sub>
