@@ -24,12 +24,12 @@ I build open-source infrastructure for AI agents at [@tinyhumansai](https://gith
 | 🦀 **[tinyagents](https://github.com/tinyhumansai/tinyagents)** · **[tinyflows](https://github.com/tinyhumansai/tinyflows)** | A provider-neutral agent harness and agentic workflows, both in Rust. |
 | 💾 **[tinymemory](https://github.com/tinyhumansai/tinymemory)** | A common memory interface for agents. I work on recall quality and evals. |
 
+Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](https://github.com/tinyhumansai/tinyartifacts) · [tinymcp](https://github.com/tinyhumansai/tinymcp) · [tinysearch](https://github.com/tinyhumansai/tinysearch)
+
 ### 🕰️ Previously
 
 - 📡 **[DPSN](https://github.com/DPSN-org)**: real-time data streams for AI agents. I built [deepsense](https://github.com/DPSN-org/deepsense), an agentic LLM orchestration framework that acts on live data, plus the [Node.js SDK](https://github.com/DPSN-org/dpsn-client-nodejs), the [SDK docs](https://github.com/DPSN-org/sdk-docs) and the [agent UI](https://github.com/DPSN-org/ai-agent-ui).
 - 🎙️ **[Talker Network](https://github.com/talker-network)**: real-time push-to-talk voice.
-
-Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](https://github.com/tinyhumansai/tinyartifacts) · [tinymcp](https://github.com/tinyhumansai/tinymcp) · [tinysearch](https://github.com/tinyhumansai/tinysearch)
 
 ### 🛰️ Recently shipped
 
