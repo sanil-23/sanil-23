@@ -34,6 +34,7 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 ### 🛰️ Recently shipped
 
 <!-- RECENT:START -->
+- `2026-10-21` **tinyhumansai/tinyagents** · [feat(state_block): a request-only run-state block with the goal, the plan and tool-call facts](https://github.com/tinyhumansai/tinyagents/pull/509)
 - `2026-10-21` **tinyhumansai/tinyagents** · [feat(recovery): constant-cap and reasoning-off retries for dead calls](https://github.com/tinyhumansai/tinyagents/pull/510)
 - `2026-10-21` **tinyhumansai/openhuman** · [fix(chat): keep live turns visible, and say when a turn is compacting](https://github.com/tinyhumansai/openhuman/pull/8164)
 - `2026-10-16` **tinyhumansai/openhuman-benchmarks** · [feat(memory): OpenHuman memory integration arm and LongMemEval_M long-history arms (#38)](https://github.com/tinyhumansai/openhuman-benchmarks/pull/39)
@@ -41,7 +42,6 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 - `2026-10-16` **tinyhumansai/openhuman** · [feat(memory): agent memory tool returns capped evidence, pages fetch, and recalls compacted turns](https://github.com/tinyhumansai/openhuman/pull/7840)
 - `2026-10-16` **tinyhumansai/openhuman** · [feat(artifacts): versioned artifacts through the tiny-artifacts service , side panel for artifact viewing ,editing and sharing , message rows representing artifacts](https://github.com/tinyhumansai/openhuman/pull/7888)
 - `2026-10-16` **tinyhumansai/tinyartifacts** · [Let the host refuse paths inside the file roots](https://github.com/tinyhumansai/tinyartifacts/pull/4)
-- `2026-10-16` **tinyhumansai/tinyartifacts** · [Keep a copy of each file version](https://github.com/tinyhumansai/tinyartifacts/pull/3)
 <!-- RECENT:END -->
 
 ### 🔭 Interests
