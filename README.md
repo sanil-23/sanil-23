@@ -34,14 +34,14 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 ### 🛰️ Recently shipped
 
 <!-- RECENT:START -->
+- `2026-10-22` **tinyhumansai/tinyagents** · [feat(state_block): hide_goal leaves the thread goal out of the block](https://github.com/tinyhumansai/tinyagents/pull/531)
+- `2026-10-22` **tinyhumansai/openhuman** · [feat(agent): run-state block with the agent's notes, model-decided goal resume and dead-call recovery for orchestrator turns](https://github.com/tinyhumansai/openhuman/pull/8163)
+- `2026-10-22` **tinyhumansai/openhuman** · [fix(shell): a timed-out command reads as a timeout and keeps what it printed](https://github.com/tinyhumansai/openhuman/pull/8226)
+- `2026-10-22` **tinyhumansai/tinyagents** · [fix(no_progress): a dead-call retry's repeats do not count toward the repeat stop](https://github.com/tinyhumansai/tinyagents/pull/526)
+- `2026-10-22` **tinyhumansai/tinybox** · [Return a command's output once it exits, even if a background process holds the pipes](https://github.com/tinyhumansai/tinybox/pull/113)
+- `2026-10-22` **tinyhumansai/tinyagents** · [feat(state_block): agent notes in the run-state block, and easier todo ticking](https://github.com/tinyhumansai/tinyagents/pull/522)
 - `2026-10-21` **tinyhumansai/tinyagents** · [feat(state_block): a request-only run-state block with the goal, the plan and tool-call facts](https://github.com/tinyhumansai/tinyagents/pull/509)
 - `2026-10-21` **tinyhumansai/tinyagents** · [feat(recovery): constant-cap and reasoning-off retries for dead calls](https://github.com/tinyhumansai/tinyagents/pull/510)
-- `2026-10-21` **tinyhumansai/openhuman** · [fix(chat): keep live turns visible, and say when a turn is compacting](https://github.com/tinyhumansai/openhuman/pull/8164)
-- `2026-10-16` **tinyhumansai/openhuman-benchmarks** · [feat(memory): OpenHuman memory integration arm and LongMemEval_M long-history arms (#38)](https://github.com/tinyhumansai/openhuman-benchmarks/pull/39)
-- `2026-10-16` **tinyhumansai/openhuman** · [perf(memory): store past chats with accepted writes](https://github.com/tinyhumansai/openhuman/pull/7961)
-- `2026-10-16` **tinyhumansai/openhuman** · [feat(memory): agent memory tool returns capped evidence, pages fetch, and recalls compacted turns](https://github.com/tinyhumansai/openhuman/pull/7840)
-- `2026-10-16` **tinyhumansai/openhuman** · [feat(artifacts): versioned artifacts through the tiny-artifacts service , side panel for artifact viewing ,editing and sharing , message rows representing artifacts](https://github.com/tinyhumansai/openhuman/pull/7888)
-- `2026-10-16` **tinyhumansai/tinyartifacts** · [Let the host refuse paths inside the file roots](https://github.com/tinyhumansai/tinyartifacts/pull/4)
 <!-- RECENT:END -->
 
 ### 🔭 Interests
