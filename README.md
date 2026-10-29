@@ -34,6 +34,7 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 ### 🛰️ Recently shipped
 
 <!-- RECENT:START -->
+- `2026-10-29` **tinyhumansai/openhuman-benchmarks** · [bench adapter: declare the skills capability so skills tasks run](https://github.com/tinyhumansai/openhuman-benchmarks/pull/41)
 - `2026-10-23` **tinyhumansai/openhuman** · [fix(modules): re-pin TinyBox to v0.2.1](https://github.com/tinyhumansai/openhuman/pull/8324)
 - `2026-10-23` **tinyhumansai/tinybox** · [fix(storage): declare only, and migrate nothing, on host-managed ports](https://github.com/tinyhumansai/tinybox/pull/124)
 - `2026-10-23` **tinyhumansai/openhuman** · [chore(modules): release and re-pin tinybox 0.2.0 (contract 2.0)](https://github.com/tinyhumansai/openhuman/pull/8320)
@@ -41,7 +42,6 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 - `2026-10-23` **tinyhumansai/openhuman** · [feat(shell): timeout_secs comes back and keeps the command running; shell_process follows it](https://github.com/tinyhumansai/openhuman/pull/8234)
 - `2026-10-23` **tinyhumansai/openhuman** · [feat(agent): a turn that suppresses the thread goal keeps the plan in its run-state block](https://github.com/tinyhumansai/openhuman/pull/8233)
 - `2026-10-22` **tinyhumansai/tinyagents** · [feat(state_block): hide_goal leaves the thread goal out of the block](https://github.com/tinyhumansai/tinyagents/pull/531)
-- `2026-10-22` **tinyhumansai/openhuman** · [feat(agent): run-state block with the agent's notes, model-decided goal resume and dead-call recovery for orchestrator turns](https://github.com/tinyhumansai/openhuman/pull/8163)
 <!-- RECENT:END -->
 
 ### 🔭 Interests
