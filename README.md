@@ -34,6 +34,7 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 ### 🛰️ Recently shipped
 
 <!-- RECENT:START -->
+- `2026-11-03` **tinyhumansai/openhuman** · [fix(shell): resolve the sandbox backend before reserving a process slot (#8317)](https://github.com/tinyhumansai/openhuman/pull/8318)
 - `2026-11-02` **tinyhumansai/openhuman** · [fix(voice): classify hosted live-voice billing refusals instead of reporting them](https://github.com/tinyhumansai/openhuman/pull/8520)
 - `2026-11-02` **tinyhumansai/openhuman** · [fix(voice): map ElevenLabs BYOK config errors, keep hosted failures reported](https://github.com/tinyhumansai/openhuman/pull/8521)
 - `2026-11-02` **tinyhumansai/openhuman** · [fix(observability): demote localized disk-full transcript failures and tell the user (#8508)](https://github.com/tinyhumansai/openhuman/pull/8517)
@@ -41,7 +42,6 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 - `2026-11-02` **tinyhumansai/openhuman** · [fix(app): exit on OS session end before tao's runner panics (#8505)](https://github.com/tinyhumansai/openhuman/pull/8515)
 - `2026-10-31` **tinyhumansai/openhuman** · [fix(installer): ship vcruntime140.dll beside each Windows module (closes #8499)](https://github.com/tinyhumansai/openhuman/pull/8513)
 - `2026-10-31` **tinyhumansai/openhuman** · [fix(installer): catch bundled-module pin drift before sealing the installer (closes #8500)](https://github.com/tinyhumansai/openhuman/pull/8514)
-- `2026-10-29` **tinyhumansai/openhuman-benchmarks** · [bench adapter: declare the skills capability so skills tasks run](https://github.com/tinyhumansai/openhuman-benchmarks/pull/41)
 <!-- RECENT:END -->
 
 ### 🔭 Interests
