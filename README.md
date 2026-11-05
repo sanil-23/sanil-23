@@ -34,6 +34,7 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 ### 🛰️ Recently shipped
 
 <!-- RECENT:START -->
+- `2026-11-04` **tinyhumansai/openhuman** · [Add the agent37 sandbox backend wiring](https://github.com/tinyhumansai/openhuman/pull/8544)
 - `2026-11-04` **tinyhumansai/tinybox** · [Add the agent37 hosted HTTP sandbox backend](https://github.com/tinyhumansai/tinybox/pull/143)
 - `2026-11-03` **tinyhumansai/tinysearch** · [Return inline snippets from web_search and steer callers to use them](https://github.com/tinyhumansai/tinysearch/pull/43)
 - `2026-11-03` **tinyhumansai/openhuman** · [fix(shell): resolve the sandbox backend before reserving a process slot (#8317)](https://github.com/tinyhumansai/openhuman/pull/8318)
@@ -41,7 +42,6 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 - `2026-11-02` **tinyhumansai/openhuman** · [fix(voice): map ElevenLabs BYOK config errors, keep hosted failures reported](https://github.com/tinyhumansai/openhuman/pull/8521)
 - `2026-11-02` **tinyhumansai/openhuman** · [fix(observability): demote localized disk-full transcript failures and tell the user (#8508)](https://github.com/tinyhumansai/openhuman/pull/8517)
 - `2026-11-02` **tinyhumansai/openhuman** · [fix(composio): demote direct-key backoff from Sentry and pause polling (#8509)](https://github.com/tinyhumansai/openhuman/pull/8516)
-- `2026-11-02` **tinyhumansai/openhuman** · [fix(app): exit on OS session end before tao's runner panics (#8505)](https://github.com/tinyhumansai/openhuman/pull/8515)
 <!-- RECENT:END -->
 
 ### 🔭 Interests
