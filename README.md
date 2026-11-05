@@ -34,14 +34,14 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 ### 🛰️ Recently shipped
 
 <!-- RECENT:START -->
+- `2026-11-05` **tinyhumansai/openhuman** · [feat(sandbox): configure agent37 box CPU and memory](https://github.com/tinyhumansai/openhuman/pull/8551)
+- `2026-11-05` **tinyhumansai/openhuman** · [Fix agent37 sandbox routing, constraints, template, egress, and cleanup](https://github.com/tinyhumansai/openhuman/pull/8545)
+- `2026-11-05` **tinyhumansai/tinybox** · [Admit agent37 module Exec through its own HTTP channel](https://github.com/tinyhumansai/tinybox/pull/144)
 - `2026-11-04` **tinyhumansai/openhuman** · [Add the agent37 sandbox backend wiring](https://github.com/tinyhumansai/openhuman/pull/8544)
 - `2026-11-04` **tinyhumansai/tinybox** · [Add the agent37 hosted HTTP sandbox backend](https://github.com/tinyhumansai/tinybox/pull/143)
 - `2026-11-03` **tinyhumansai/tinysearch** · [Return inline snippets from web_search and steer callers to use them](https://github.com/tinyhumansai/tinysearch/pull/43)
 - `2026-11-03` **tinyhumansai/openhuman** · [fix(shell): resolve the sandbox backend before reserving a process slot (#8317)](https://github.com/tinyhumansai/openhuman/pull/8318)
 - `2026-11-02` **tinyhumansai/openhuman** · [fix(voice): classify hosted live-voice billing refusals instead of reporting them](https://github.com/tinyhumansai/openhuman/pull/8520)
-- `2026-11-02` **tinyhumansai/openhuman** · [fix(voice): map ElevenLabs BYOK config errors, keep hosted failures reported](https://github.com/tinyhumansai/openhuman/pull/8521)
-- `2026-11-02` **tinyhumansai/openhuman** · [fix(observability): demote localized disk-full transcript failures and tell the user (#8508)](https://github.com/tinyhumansai/openhuman/pull/8517)
-- `2026-11-02` **tinyhumansai/openhuman** · [fix(composio): demote direct-key backoff from Sentry and pause polling (#8509)](https://github.com/tinyhumansai/openhuman/pull/8516)
 <!-- RECENT:END -->
 
 ### 🔭 Interests
