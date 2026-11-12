@@ -34,6 +34,7 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 ### 🛰️ Recently shipped
 
 <!-- RECENT:START -->
+- `2026-11-12` **tinyhumansai/tinyagents** · [fix(agent_loop): grant one deliver-first turn when a no-progress guard halts](https://github.com/tinyhumansai/tinyagents/pull/588)
 - `2026-11-05` **tinyhumansai/openhuman** · [feat(sandbox): configure agent37 box CPU and memory](https://github.com/tinyhumansai/openhuman/pull/8551)
 - `2026-11-05` **tinyhumansai/openhuman** · [Fix agent37 sandbox routing, constraints, template, egress, and cleanup](https://github.com/tinyhumansai/openhuman/pull/8545)
 - `2026-11-05` **tinyhumansai/tinybox** · [Admit agent37 module Exec through its own HTTP channel](https://github.com/tinyhumansai/tinybox/pull/144)
@@ -41,7 +42,6 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 - `2026-11-04` **tinyhumansai/tinybox** · [Add the agent37 hosted HTTP sandbox backend](https://github.com/tinyhumansai/tinybox/pull/143)
 - `2026-11-03` **tinyhumansai/tinysearch** · [Return inline snippets from web_search and steer callers to use them](https://github.com/tinyhumansai/tinysearch/pull/43)
 - `2026-11-03` **tinyhumansai/openhuman** · [fix(shell): resolve the sandbox backend before reserving a process slot (#8317)](https://github.com/tinyhumansai/openhuman/pull/8318)
-- `2026-11-02` **tinyhumansai/openhuman** · [fix(voice): classify hosted live-voice billing refusals instead of reporting them](https://github.com/tinyhumansai/openhuman/pull/8520)
 <!-- RECENT:END -->
 
 ### 🔭 Interests
