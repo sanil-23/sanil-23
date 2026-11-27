@@ -34,14 +34,14 @@ Also: [tinytools](https://github.com/tinyhumansai/tinytools) · [tinyartifacts](
 ### 🛰️ Recently shipped
 
 <!-- RECENT:START -->
+- `2026-11-27` **tinyhumansai/tinyhivemind** · [Give ACP seats their prompt on a session's first turn](https://github.com/tinyhumansai/tinyhivemind/pull/144)
+- `2026-11-27` **tinyhumansai/tinyhivemind** · [Start a hive's seats on their harness processes](https://github.com/tinyhumansai/tinyhivemind/pull/143)
+- `2026-11-27` **tinyhumansai/tinyhivemind** · [Run hive seats on OpenClaw through a shared Gateway](https://github.com/tinyhumansai/tinyhivemind/pull/142)
+- `2026-11-27` **tinyhumansai/tinyhivemind** · [Test lead-only delegation across harnesses](https://github.com/tinyhumansai/tinyhivemind/pull/141)
+- `2026-11-27` **tinyhumansai/tinyhivemind** · [Run hive seats on Claude Code and Codex over ACP, beside OpenHuman](https://github.com/tinyhumansai/tinyhivemind/pull/140)
 - `2026-11-12` **tinyhumansai/tinyagents** · [fix(agent_loop): grant one deliver-first turn when a no-progress guard halts](https://github.com/tinyhumansai/tinyagents/pull/588)
 - `2026-11-05` **tinyhumansai/openhuman** · [feat(sandbox): configure agent37 box CPU and memory](https://github.com/tinyhumansai/openhuman/pull/8551)
 - `2026-11-05` **tinyhumansai/openhuman** · [Fix agent37 sandbox routing, constraints, template, egress, and cleanup](https://github.com/tinyhumansai/openhuman/pull/8545)
-- `2026-11-05` **tinyhumansai/tinybox** · [Admit agent37 module Exec through its own HTTP channel](https://github.com/tinyhumansai/tinybox/pull/144)
-- `2026-11-04` **tinyhumansai/openhuman** · [Add the agent37 sandbox backend wiring](https://github.com/tinyhumansai/openhuman/pull/8544)
-- `2026-11-04` **tinyhumansai/tinybox** · [Add the agent37 hosted HTTP sandbox backend](https://github.com/tinyhumansai/tinybox/pull/143)
-- `2026-11-03` **tinyhumansai/tinysearch** · [Return inline snippets from web_search and steer callers to use them](https://github.com/tinyhumansai/tinysearch/pull/43)
-- `2026-11-03` **tinyhumansai/openhuman** · [fix(shell): resolve the sandbox backend before reserving a process slot (#8317)](https://github.com/tinyhumansai/openhuman/pull/8318)
 <!-- RECENT:END -->
 
 ### 🔭 Interests
